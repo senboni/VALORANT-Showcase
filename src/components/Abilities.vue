@@ -93,18 +93,18 @@ p {
 }
 
 .abil-icon {
-  opacity: 30%;
+  opacity: 0.3;
   height: 3.5rem;
   margin-bottom: 1rem;
 }
 
 .abil-icon:hover {
   cursor: pointer;
-  opacity: 100%;
+  opacity: 1;
 }
 
 .active {
-  opacity: 100%;
+  opacity: 1;
 }
 
 @media screen and (min-width: 768px) {
